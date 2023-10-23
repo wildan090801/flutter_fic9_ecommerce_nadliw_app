@@ -2,7 +2,7 @@ import 'package:fic9_ecommerce_template_app/common/constants/images.dart';
 import 'package:flutter/material.dart';
 
 import '../../common/components/search_input.dart';
-import '../../common/components/space_height.dart';
+import '../../common/components/spaces.dart';
 import '../../common/constants/colors.dart';
 import 'product_model.dart';
 import 'widgets/category_button.dart';

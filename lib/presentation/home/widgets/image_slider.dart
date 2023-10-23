@@ -1,7 +1,7 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
 
-import '../../../common/components/space_height.dart';
+import '../../../common/components/spaces.dart';
 import '../../../common/constants/colors.dart';
 
 class ImageSlider extends StatefulWidget {

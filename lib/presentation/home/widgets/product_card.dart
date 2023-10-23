@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 
-import '../../../common/components/space_height.dart';
+import '../../../common/components/spaces.dart';
 import '../../../common/constants/colors.dart';
 import '../product_model.dart';
-
 
 class ProductCard extends StatelessWidget {
   final ProductModel data;
